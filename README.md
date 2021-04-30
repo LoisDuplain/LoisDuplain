@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Loïs</h1>
+<h1 align="center">Hi 👋, I'm Loïs</h1>
 <h3 align="center">A passionate java developer from France</h3>
 <h4 align="center">I study at <a href="https://www.42lyon.fr/">42Lyon</a> school.</h4>
 
@@ -26,6 +26,9 @@ Connect with me:
 	</a>
 	<a href="https://discord.com/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-DISCORD:_Lo%C3%AFs%232167-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord: Loïs#2167"/>
+	</a>
+  <a href="https://profile.intra.42.fr/users/lduplain/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-LOGIN:_lduplain-2DD57B?style=for-the-badge&logo=42&logoColor=white" alt="42 login: lduplain"/>
 	</a>
 </p>
 
