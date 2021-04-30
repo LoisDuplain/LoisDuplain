@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loïs</h1>
 <h3 align="center">A passionate java developer from France</h3>
 
+<p align="center">
 - 🔭 I’m currently working on **synchronizing java objects on multi software instances**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
@@ -8,7 +9,7 @@
 - 💬 Ask me about **software/api/library development**
 
 - 📫 How to reach me **loisdupl42@gmail.com**
-
+</p>
 
 <h3 align="left">
 Connect with me:
