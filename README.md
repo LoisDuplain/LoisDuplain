@@ -17,7 +17,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="loisduplain" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/loïs-duplain" target="blank">
-    <img align="center" src="logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="loïsduplain" height="30" width="40" />
+    <img align="center" src="https://logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="loïsduplain" height="30" width="40" />
   </a>
   <a href="https://instagram.com/loisduplain" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="loisduplain" height="30" width="40" />
