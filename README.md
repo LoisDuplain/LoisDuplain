@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **software/api/library development**
 
-- 📫 How to reach me **loisdupl42@gmail.com**
+- 📫 How to reach me: **loisdupl42@gmail.com**
 
 
 <h3 align="left">
