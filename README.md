@@ -24,8 +24,8 @@ Connect with me:
 	<a href="https://instagram.com/loisduplain" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-INSTAGRAM-C13584?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram: loisduplain"/>
 	</a>
-	<a href="https://discord.gg/lois#2167" target="_blank">
-		<img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="discord: lois#2167"/>
+	<a href="https://discord.com/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-DISCORD:_Loïs#2167-7289da?style=for-the-badge&logo=linkedin&logoColor=white" alt="discord: Loïs#2167"/>
 	</a>
 </p>
 
