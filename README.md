@@ -13,16 +13,16 @@
   Connect with me:
 </h3>
 <p align="left">
-  <a href="https://twitter.com/duplainlois" target="blank">
+  <a href="https://twitter.com/duplainlois" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="duplainlois" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/loïs-duplain" target="blank">
+  <a href="https://linkedin.com/in/loïs-duplain" target="_blank">
     <img align="center" src="https://logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="loïs-duplain" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/loisduplain" target="blank">
+  <a href="https://instagram.com/loisduplain" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="loisduplain" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/lois#2167" target="blank">
+  <a href="https://discord.gg/lois#2167" target="_blank">
     <img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" alt="lois#2167" height="30" width="40" />
   </a>
 </p>
