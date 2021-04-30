@@ -9,12 +9,22 @@
 
 - 📫 How to reach me **loisdupl42@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
-<a href="https://twitter.com/duplainlois" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="loisduplain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/loïsduplain" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619785882~hmac=b6490d007b05aeea3a64ed6b18cc7411" alt="loïsduplain" height="30" width="40" /></a>
-<a href="https://instagram.com/loisduplain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="loisduplain" height="30" width="40" /></a>
-<a href="https://discord.gg/lois#2167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="lois#2167" height="30" width="40" /></a>
+  <a href="https://twitter.com/duplainlois" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="loisduplain" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/loïs-duplain" target="blank">
+    <img align="center" src="logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="loïsduplain" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/loisduplain" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="loisduplain" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/lois#2167" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="lois#2167" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
