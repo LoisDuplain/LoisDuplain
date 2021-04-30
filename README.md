@@ -22,7 +22,7 @@ Connect with me:
 		<img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin: loïs-duplain"/>
 	</a>
 	<a href="https://instagram.com/loisduplain" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/-INSTAGRAM-C13584?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram: loisduplain"/>
+		<img align="center" src="https://img.shields.io/badge/-INSTAGRAM-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram: loisduplain"/>
 	</a>
 	<a href="https://discord.com/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-DISCORD:_Lo%C3%AFs%232167-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord: Loïs#2167"/>
