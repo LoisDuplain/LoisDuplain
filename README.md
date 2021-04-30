@@ -2,8 +2,6 @@
 <h3 align="center">A passionate java developer from France.</h3>
 <h4 align="center">I study at <a href="https://www.42lyon.fr/">42Lyon</a> school.</h4>
 
-- 🔭 I’m currently working on **synchronizing java objects on multi software instances**.
-
 - 🌱 I’m currently learning **Docker, Kubernetes**.
 
 - 💬 Ask me about **software/api/library development**.
