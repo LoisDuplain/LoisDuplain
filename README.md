@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Loïs</h1>
 <h3 align="center">A passionate java developer from France</h3>
 
-<p align="center">🔭 I’m currently working on **synchronizing java objects on multi software instances**</p>
+<p align="center">🔭 I’m currently working on <bold>synchronizing java objects on multi software instances</bold></p>
 
-<p align="center">🌱 I’m currently learning **Docker, Kubernetes**</p>
+<p align="center">🌱 I’m currently learning <bold>Docker, Kubernetes</bold></p>
 
-<p align="center">💬 Ask me about **software/api/library development**</p>
+<p align="center">💬 Ask me about <bold>software/api/library development</bold></p>
 
-<p align="center">📫 How to reach me **loisdupl42@gmail.com**</p>
+<p align="center">📫 How to reach me <bold>loisdupl42@gmail.</bold></p>
 
 <h3 align="left">
 Connect with me:
