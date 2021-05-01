@@ -83,19 +83,16 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" alt="php"/>
 	</a>
 	<a href="https://getbootstrap.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-	</a>
-	<a href="https://materializecss.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-TAILWIND%20CSS-38B2AC?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white" alt="tailwindcss"/>
 	</a>
 	<a href="https://laravel.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-LARAVEL-FF2D20?logo=Laravel&style=for-the-badge&logoColor=white" alt="laravel"/>
 	</a>
 	<a href="https://rubyonrails.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-RAILS-CC0000?logo=Ruby%20on%20Rails&style=for-the-badge&logoColor=white" alt="rails"/>
 	</a>
 	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
