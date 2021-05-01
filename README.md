@@ -47,7 +47,7 @@ Languages and Tools:
 </h3>
 <p align="left">
 	<a href="https://www.java.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
