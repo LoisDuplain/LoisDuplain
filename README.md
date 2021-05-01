@@ -62,17 +62,16 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 		<img align="center" src="https://img.shields.io/badge/-GIT-F05032?logo=Git&style=for-the-badge&logoColor=white" alt="git"/>
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white" alt="bash"/>
 	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C++&style=for-the-badge&logoColor=white" alt="c++"/>
 	</a>
 	<a href="https://www.w3schools.com/cs/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white" alt="c#"/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
