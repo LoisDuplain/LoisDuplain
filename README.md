@@ -68,7 +68,7 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white" alt="bash"/>
 	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C++&style=for-the-badge&logoColor=white" alt="c++"/>
+		<img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white" alt="c++"/>
 	</a>
 	<a href="https://www.w3schools.com/cs/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white" alt="c#"/>
