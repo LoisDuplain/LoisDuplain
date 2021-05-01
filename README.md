@@ -53,10 +53,11 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
 	</a>
 	<a href="https://hibernate.org/" target="_blank">
-		<img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="hibernate" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-HIBERNATE-59666C?logo=Hibernate&style=for-the-badge&logoColor=white" alt="hibernate"/>
 	</a>
   <a href="https://spring.io/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-SPRING-6DB33F?logo=Spring&style=for-the-badge&logoColor=white" alt="spring"/>
 	</a>
 	<a href="https://www.cprogramming.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
