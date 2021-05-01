@@ -95,24 +95,27 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-RAILS-CC0000?logo=Ruby%20on%20Rails&style=for-the-badge&logoColor=white" alt="rails"/>
 	</a>
 	<a href="https://www.python.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=Adobe%20Photoshop&style=for-the-badge&logoColor=white" alt="photoshop"/>
+	</a>
+	<a href="https://www.photopea.com/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-PHOTOPEA-18A497?logo=Photopea&style=for-the-badge&logoColor=white" alt="photopea"/>
 	</a>
 	<a href="https://unrealengine.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-UNREAL%20ENGINE-313131?logo=Unreal%20Engine&style=for-the-badge&logoColor=white" alt="unrealengine"/>
 	</a>
 	<a href="https://postman.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-POSTMAN-FF6C37?logo=Postman&style=for-the-badge&logoColor=white" alt="postman"/>
 	</a>
 	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-DOCKER-2496ED?logo=Docker&style=for-the-badge&logoColor=white" alt="docker"/>
 	</a>
 	<a href="https://www.jenkins.io" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-JENKINS-D24939?logo=Jenkins&style=for-the-badge&logoColor=white" alt="jenkins"/>
 	</a>
 	<a href="https://www.arduino.cc/" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-ARDUINO-00979D?logo=Arduino&style=for-the-badge&logoColor=white" alt="arduino"/>
 	</a>
 </p>
