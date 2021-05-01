@@ -50,7 +50,7 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
 	</a>
 	<a href="https://hibernate.org/" target="_blank">
 		<img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="hibernate" width="40" height="40"/>
