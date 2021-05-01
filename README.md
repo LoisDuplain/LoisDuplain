@@ -63,6 +63,7 @@ Languages and Tools:
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+		<img align="center" src="https://img.shields.io/badge/-GIT-F05032?logo=Git&style=for-the-badge&logoColor=white" alt="git"/>
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
