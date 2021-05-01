@@ -45,7 +45,7 @@ OS:
 <h3 align="left">
 Languages and Tools:
 </h3>
-<p align="left">
+<p align="left" style="line-height: 15px;">
 	<a href="https://www.java.com" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
 	</a>
