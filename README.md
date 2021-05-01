@@ -100,9 +100,6 @@ Languages and Tools:
 	<a href="https://www.photoshop.com/en" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=Adobe%20Photoshop&style=for-the-badge&logoColor=white" alt="photoshop"/>
 	</a>
-	<a href="https://www.photopea.com/" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/-PHOTOPEA-18A497?logo=Photopea&style=for-the-badge&logoColor=white" alt="photopea"/>
-	</a>
 	<a href="https://unrealengine.com/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-UNREAL%20ENGINE-313131?logo=Unreal%20Engine&style=for-the-badge&logoColor=white" alt="unrealengine"/>
 	</a>
