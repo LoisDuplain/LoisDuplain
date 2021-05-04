@@ -120,4 +120,4 @@ Languages and Tools:
 <h3 align="left">
 42 Cursus:
 </h3>
-<img align="center" src="https://badge42.herokuapp.com/api/stats/lduplain" alt="42cursus"/>
+<img align="center" src="https://badge42.herokuapp.com/api/stats/lduplain?darkmode=true" alt="42cursus"/>
