@@ -116,3 +116,5 @@ Languages and Tools:
 		<img align="center" src="https://img.shields.io/badge/-ARDUINO-00979D?logo=Arduino&style=for-the-badge&logoColor=white" alt="arduino"/>
 	</a>
 </p>
+
+<img align="center" src="https://badge42.herokuapp.com/api/stats/lduplain" alt="42cursus"/>
