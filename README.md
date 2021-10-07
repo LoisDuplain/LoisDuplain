@@ -51,8 +51,11 @@ Languages and Tools:
 	<a href="https://hibernate.org/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-HIBERNATE-59666C?logo=Hibernate&style=for-the-badge&logoColor=white" alt="hibernate"/>
 	</a>
-  <a href="https://spring.io/" target="_blank">
+  	<a href="https://spring.io/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-SPRING-6DB33F?logo=Spring&style=for-the-badge&logoColor=white" alt="spring"/>
+	</a>
+	<a href="https://redis.io/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/-REDIS-DC382D?logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/>
 	</a>
 	<a href="https://www.cprogramming.com/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
