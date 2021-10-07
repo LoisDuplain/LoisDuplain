@@ -2,10 +2,6 @@
 <h3 align="center">A passionate java developer from France.</h3>
 <h4 align="center">I study at <a href="https://www.42lyon.fr/">42Lyon</a> school.</h4>
 
-- 🌱 I’m currently learning **Docker, Kubernetes**.
-
-- 💬 Ask me about **software/api/library development**.
-
 - 📫 How to reach me: **loisdupl42@gmail.com**.
 
 
@@ -108,9 +104,6 @@ Languages and Tools:
 	</a>
 	<a href="https://www.docker.com/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-DOCKER-2496ED?logo=Docker&style=for-the-badge&logoColor=white" alt="docker"/>
-	</a>
-	<a href="https://www.jenkins.io" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/-JENKINS-D24939?logo=Jenkins&style=for-the-badge&logoColor=white" alt="jenkins"/>
 	</a>
 	<a href="https://www.arduino.cc/" target="_blank">
 		<img align="center" src="https://img.shields.io/badge/-ARDUINO-00979D?logo=Arduino&style=for-the-badge&logoColor=white" alt="arduino"/>
