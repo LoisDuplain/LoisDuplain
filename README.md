@@ -116,4 +116,7 @@ Languages and Tools:
 <h3 align="left">
 42 Cursus:
 </h3>
+<p align="left">
+	To see my full cursus: <a href="https://github.com/LoisDuplain/42cursus">42cursus</a>
+</p>
 <img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=false&email=hide&leet_logo=hide&login=lduplain" alt="42cursus"/>
